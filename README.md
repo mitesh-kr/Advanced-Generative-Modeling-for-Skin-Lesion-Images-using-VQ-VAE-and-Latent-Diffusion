@@ -2,6 +2,10 @@
 
 This repository implements a two-stage generative model combining Vector Quantized Variational Autoencoder (VQ-VAE) with a diffusion model. The approach first compresses images into a discrete latent space using VQ-VAE, then learns a diffusion probabilistic model in this latent space for high-quality image generation.
 
+
+## Google Colab Link: (https://colab.research.google.com/drive/1AZEWxF4qpbvdl8YslnA-48lTzKRdJ-ja?usp=sharing)
+
+
 ## Architecture
 
 The project consists of two main components:
@@ -95,7 +99,7 @@ The model behavior can be configured in `config.py`. Key parameters include:
 
 Sample generated images:
 
-[Insert sample images here]
+[Genearted sample images here](https://drive.google.com/file/d/19GDyU2i3uuA1o7BjWorm9nsIHjV6-t8Y/view?usp=sharing)
 
 ## Contributing
 
@@ -104,12 +108,3 @@ Sample generated images:
 3. Commit your changes: `git commit -m 'Add some amazing feature'`
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a pull request
-
-## Acknowledgements
-
-- [Cite any papers or resources your implementation is based on]
-- [Acknowledge any datasets used]
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
