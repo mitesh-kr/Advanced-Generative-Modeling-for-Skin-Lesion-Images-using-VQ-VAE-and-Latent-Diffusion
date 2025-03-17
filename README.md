@@ -43,8 +43,9 @@ The project consists of two main components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mitesh-kr/vqvae-diffusion.git
-cd vqvae-diffusion
+git clone https://github.com/mitesh-kr/Advanced-Generative-Modeling-for-Skin-Lesion-Images-using-VQ-VAE-and-Latent-Diffusion.git
+cd Advanced-Generative-Modeling-for-Skin-Lesion-Images-using-VQ-VAE-and-Latent-Diffusion
+
 ```
 
 2. Install the required dependencies:
