@@ -43,7 +43,7 @@ The project consists of two main components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vqvae-diffusion.git
+git clone https://github.com/mitesh-kr/vqvae-diffusion.git
 cd vqvae-diffusion
 ```
 
