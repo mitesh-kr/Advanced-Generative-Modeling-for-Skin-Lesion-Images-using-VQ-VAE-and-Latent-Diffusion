@@ -3,7 +3,7 @@
 This repository implements a two-stage generative model combining Vector Quantized Variational Autoencoder (VQ-VAE) with a diffusion model. The approach first compresses images into a discrete latent space using VQ-VAE, then learns a diffusion probabilistic model in this latent space for high-quality image generation.
 
 
-## Google Colab Link: (https://colab.research.google.com/drive/1AZEWxF4qpbvdl8YslnA-48lTzKRdJ-ja?usp=sharing)
+## Google Colab Link:(https://colab.research.google.com/drive/1AZEWxF4qpbvdl8YslnA-48lTzKRdJ-ja?usp=sharing)
 
 
 ## Architecture
